@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021234494166",
+    "project_id": "meme-review-ede97",
+    "storage_bucket": "meme-review-ede97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021234494166:android:96e60a92f75ef65e0ba777",
+        "android_client_info": {
+          "package_name": "com.asadcoder.meme_review"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsd3gEEhhHV-CFI-5iBFLc9ayCKfglPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
